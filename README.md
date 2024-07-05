@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### I'm Kirito,a undergraduate from Nanjing Tech University Pujiang Institute.
+I'm really excited that I start to learn how to use Github.
+Last school year,I have learned elements of C.Next term,I will change my major to Computer Science and Technology.
+I will take some courses further,like C++,Java and Python.
